@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/english-dictionary-explorer-185683-185692/react_frontend"
+}
